@@ -1,0 +1,11 @@
+---
+title: "notes-2b"
+format: html
+editor: visual
+---
+
+# Notes on Exercise 2
+
+-   I am happy to say that this time it worked on the first try.
+
+-   
